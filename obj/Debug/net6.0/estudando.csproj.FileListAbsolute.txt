@@ -1,0 +1,15 @@
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\bin\Debug\net6.0\estudando.exe
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\bin\Debug\net6.0\estudando.deps.json
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\bin\Debug\net6.0\estudando.runtimeconfig.json
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\bin\Debug\net6.0\estudando.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\bin\Debug\net6.0\estudando.pdb
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\obj\Debug\net6.0\estudando.csproj.AssemblyReference.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\obj\Debug\net6.0\estudando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\obj\Debug\net6.0\estudando.AssemblyInfoInputs.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\obj\Debug\net6.0\estudando.AssemblyInfo.cs
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\obj\Debug\net6.0\estudando.csproj.CoreCompileInputs.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\obj\Debug\net6.0\estudando.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\obj\Debug\net6.0\refint\estudando.dll
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\obj\Debug\net6.0\estudando.pdb
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\obj\Debug\net6.0\estudando.genruntimeconfig.cache
+C:\Users\magal\OneDrive\Documentos\Estudo\estudando\obj\Debug\net6.0\ref\estudando.dll
