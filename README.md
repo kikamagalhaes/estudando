@@ -1,6 +1,6 @@
-# Projeto
+# Desafio Final
 
-<h2>🏆 DevTeam: </h2>
+<h2>🏆 Jogos da Copa 2022: </h2>
 
 <br>
 
